@@ -87,3 +87,42 @@
 
   color: #ffffff;
 }
+
+.acerca {
+  width: 243px;
+}
+
+.acerca > h1 {
+  margin-top: 33px;
+
+  font-weight: 700;
+  font-size: 16px;
+
+  color: #f5f5f5;
+}
+
+.acerca > p {
+  font-size: 10.24px;
+
+  color: #dcdcdc;
+}
+
+.intereses {
+  width: 243px;
+}
+
+.intereses > h1 {
+  margin-top: 33px;
+
+  font-weight: 700;
+  font-size: 16px;
+
+  color: #f5f5f5;
+}
+
+.intereses > p {
+  font-size: 10.24px;
+
+  color: #dcdcdc;
+}
+
